@@ -1,0 +1,13 @@
+{
+	"name" : "mongoose-tutorial",
+	"version" : "0.0.1",
+	"private" : false,
+	"scripts" : {
+			"start" : "node app"
+			},
+	"dependencies" : {
+			"express" : "4.12.1",
+			"jade" : "*",
+			"mongoose" : "3.8"
+			}
+}
